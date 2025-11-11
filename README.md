@@ -197,7 +197,7 @@ achievements:
 ### Architectures & Patterns
 
 <p align="center">
-  <b>🧼 Clean Architecture</b> • <b>🧱 Hexagonal Architecture</b> • <b>⚡ Event-Driven</b> • <b>📐 SOLID</b> • <b>🎯 Design Patterns</b> • <b>🔄 Concurrency Patterns</b>
+  <b> Clean Architecture</b> • <b> Hexagonal Architecture</b> • <b> Event-Driven</b> • <b> SOLID</b> • <b> Design Patterns</b> • <b> Concurrency Patterns</b>
 </p>
 
 ---
