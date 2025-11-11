@@ -177,6 +177,7 @@ achievements:
   <img src="https://img.shields.io/badge/-Vara_Network-00C853?logo=blockchain.com&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Web3-F16822?logo=web3.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Smart_Contracts-3C3C3D?logo=ethereum&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Polkadot-E6007A?logo=polkadot&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat-square" />
 </p>
 
