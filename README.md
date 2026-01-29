@@ -1,9 +1,5 @@
 <br clear="both">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=1CB698&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+José+Antonio;Back-End+Developer;DevOps+%26+Security+Engineer;Blockchain+Developer;Always+Learning" alt="Typing SVG" />
 </h1>
@@ -40,55 +36,6 @@
     <img src="https://img.shields.io/badge/Twitter-@VixelTorn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
-
----
-
-<table>
-  <tr>
-    <td>
-
-### About Me
-
-```yaml
-name: José Antonio Pinto Aguilar
-location: Tuxtla Gutiérrez, Chiapas 🇲🇽
-education: Software Engineering @ UPChiapas
-graduation: December 2026
-role: Backend Developer & DevOps Engineer
-
-focus:
-  - Building robust backend systems
-  - Ethical hacking & penetration testing
-  - Cloud infrastructure (AWS)
-  - Blockchain development (Vara Network)
-  - IoT integration (Raspberry Pi & ESP32)
-
-achievements:
-  - 1st Place National Hackathon (Chiapas)
-  - 2nd Place MegaHackathon Vara CDMX
-  - AWS Academy Graduate (3 certifications)
-  - Government Project Security Engineer
-```
-
-### Current Projects
-
--  **Vixel** - Decentralized gaming platform on Vara Blockchain
--  **GEOVA** - IoT measurement system for civil engineering
--  **VaultDoc** - Secure document management with pentesting
--  **Frimeet** - Recommendation platform with ML
-
-</td>
-<td align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephAntony37900&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CB698&icon_color=1CB698&text_color=FFFFFF" width="400" />
-</td>
-  </tr>
-</table>
-
----
-
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVybnp3ZzJ0N3Rsc3ppcXF4b3Q2dnpkZHhicjBqNDZoazZtaHltZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ### Tech Stack
 
@@ -203,30 +150,6 @@ achievements:
 
 ---
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-<div align="center">
-
-## GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JosephAntony37900&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CB698&icon_color=1CB698&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephAntony37900&theme=radical&hide_border=true&background=0D1117&ring=1CB698&fire=1CB698&currStreakLabel=1CB698" />
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephAntony37900&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CB698&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=JosephAntony37900&theme=react-dark&hide_border=true&bg_color=0D1117&color=1CB698&line=1CB698&point=FFFFFF" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JosephAntony37900&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
-
----
-
 ### Achievements & Certifications
 
 <p align="center">
@@ -272,36 +195,13 @@ achievements:
 
 ---
 
-### Professional Experience Timeline
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-timeline
-    title My Developer Journey
-    2023 : Started Software Engineering
-         : UPChiapas
-    Sep-Nov 2024 : Back-End Developer
-                 : Frimeet Platform
-    Oct 2024-Jan 2025 : Blockchain Developer
-                      : Vixel Platform
-                      : 1st Place National
-                      : 2nd Place International
-    Apr-May 2025 : Game Developer
-                 : MUCH Museum
-    May-Jul 2025 : Lead Developer
-                 : GEOVA IoT System
-    Aug 2025 : Security Engineer
-             : VaultDoc Government Project
-    Dec 2026 : Expected Graduation
-```
-
 ---
 
 ### Contribution Snake
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/JosephAntony37900/JosephAntony37900/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/JosephAntonyDev/JosephAntony37900/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -319,9 +219,9 @@ timeline
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=JosephAntony37900&label=Profile%20Views&color=1CB698&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=JosephAntonyDev&label=Profile%20Views&color=1CB698&style=for-the-badge" alt="profile views" />
 
-**⭐️ From [JosephAntony37900](https://github.com/JosephAntony37900)**
+**⭐️ From [JosephAntonyDev](https://github.com/JosephAntonyDev)**
 
 *"First, solve the problem. Then, write the code."* – John Johnson
 
