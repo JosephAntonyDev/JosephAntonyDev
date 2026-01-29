@@ -23,10 +23,10 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-antonio-pinto-aguilar-b884b92a2">
     <img src="https://img.shields.io/badge/LinkedIn-José_Antonio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/JosephAntony37900">
-    <img src="https://img.shields.io/badge/GitHub-JosephAntony37900-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/JosephAntonyDev">
+    <img src="https://img.shields.io/badge/GitHub-JosephAntonyDev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://josephantony37900.github.io/Portafolio-V2/">
+  <a href="https://JosephAntony.dev">
     <img src="https://img.shields.io/badge/Portfolio-1CB698?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:JoseAntonioPintoAguilar@gmail.com">
