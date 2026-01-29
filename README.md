@@ -142,43 +142,6 @@
 
 ---
 
-### Architectures & Patterns
-
-<p align="center">
-  <b> Clean Architecture</b> • <b> Hexagonal Architecture</b> • <b> Event-Driven</b> • <b> SOLID</b> • <b> Design Patterns</b> • <b> Concurrency Patterns</b>
-</p>
-
----
-
-### Achievements & Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🥇_1st_Place-National_Hackathon_Chiapas-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🥈_2nd_Place-MegaHackathon_Vara_CDMX-C0C0C0?style=for-the-badge" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Developing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Cisco-Operating_Systems_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Cisco-Operating_Systems_Support-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Oracle_+_Alura-Java_Development-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Oracle_+_Alura-Java_OOP-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Oracle_+_Alura-Git_&_GitHub-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### Featured Projects
 
 <div align="center">
